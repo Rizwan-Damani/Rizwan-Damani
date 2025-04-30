@@ -76,5 +76,9 @@
 </p>
 
 ---
+### 🐍 GitHub Contributions Snake
 
+![GitHub Snake Light](https://raw.githubusercontent.com/Rizwan-Damani/Rizwan-Damani/output/github-snake.svg)
+
+---
 ### ✨ Let's Collaborate and Build Something Amazing Together!
